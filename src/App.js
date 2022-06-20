@@ -1,5 +1,6 @@
 import React  from 'react';
 import ClassCounter from './components/ClassCounter';
+import "./components/styles/App"
 function App() {
  
   return (
